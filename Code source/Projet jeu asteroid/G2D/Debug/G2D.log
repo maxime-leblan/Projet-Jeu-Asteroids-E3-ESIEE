@@ -1,0 +1,22 @@
+﻿  G2DColor.cpp
+  G2DMain.cpp
+\\wsl.localhost\Ubuntu\home\maxim\Cours_E3_ESIEE\Programmation C++\Projet jeu asteroid\G2DColor.cpp(16,39): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+\\wsl.localhost\Ubuntu\home\maxim\Cours_E3_ESIEE\Programmation C++\Projet jeu asteroid\G2DColor.cpp(16,28): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+\\wsl.localhost\Ubuntu\home\maxim\Cours_E3_ESIEE\Programmation C++\Projet jeu asteroid\G2DColor.cpp(16,17): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+\\wsl.localhost\Ubuntu\home\maxim\Cours_E3_ESIEE\Programmation C++\Projet jeu asteroid\G2DColor.cpp(22,10): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+\\wsl.localhost\Ubuntu\home\maxim\Cours_E3_ESIEE\Programmation C++\Projet jeu asteroid\G2DColor.cpp(23,10): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+\\wsl.localhost\Ubuntu\home\maxim\Cours_E3_ESIEE\Programmation C++\Projet jeu asteroid\G2DColor.cpp(24,10): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  Eleve.cpp
+\\wsl.localhost\Ubuntu\home\maxim\Cours_E3_ESIEE\Programmation C++\Projet jeu asteroid\Asteroid.h(81,13): warning C4305: 'argument' : troncation de '__int64' à 'float'
+  (compiler le fichier source 'Eleve.cpp')
+  
+\\wsl.localhost\Ubuntu\home\maxim\Cours_E3_ESIEE\Programmation C++\Projet jeu asteroid\Eleve.cpp(37,47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  G2DKey.cpp
+  G2DMouse.cpp
+  G2DX.cpp
+  GlutImport.h
+  lodepng.cpp
+  G2DPNGreader.cpp
+  V2.cpp
+\\wsl.localhost\Ubuntu\home\maxim\Cours_E3_ESIEE\Programmation C++\Projet jeu asteroid\V2.cpp(44,31): error C2065: 'M_PI' : identificateur non déclaré
+  Génération de code en cours...
