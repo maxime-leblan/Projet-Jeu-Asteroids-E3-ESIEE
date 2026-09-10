@@ -7,4 +7,6 @@ Afin d'implémenter cette variante du jeu Asteroids, nous avons été incité pa
 # Rapport vidéo
 Pour avoir un meilleur aperçu sur le rendu final de ce projet, voici la vidéo ayant été produite dans le cadre de l'évaluation de celui-ci, et qui introduit les différentes fonctionnalités ayant été implémentées au sein du jeu.
 
+[![Titre de la vidéo](https://img.youtube.com/vi/05ZLBF5-vjE/0.jpg)](https://www.youtube.com/watch?v=05ZLBF5-vjE)   
+
 
