@@ -12,7 +12,13 @@ Pour avoir un meilleur aperçu sur le rendu final de ce projet, voici la vidéo 
 # Installation et test du jeu
 Aucun fichier exécutable n'a été créé pour pouvoir lancer le jeu sans dépendances externes. Pour pouvoir installer et exécuter le jeu, il est impératif d'avoir au préalable installé le compilateur g++ permettant de compiler le code source du jeu.
 
-Après avoir téléchargé le code et avoir ouvert le dossier dans un éditeur de code (exemple : VS Code), ouvrez l'invite de commande au même niveau d'arborescence que les fichiers terminant par l'extension `.cpp`. Tapez ensuite la commande de compilation suivante dans votre terminal :
-```g++ *.cpp -lGL -lGLU -lglut```
+Après avoir téléchargé le code et avoir ouvert le dossier dans un éditeur de code (exemple : VS Code), ouvrez l'invite de commande au même niveau d'arborescence que les fichiers terminant par l'extension `.cpp`.
+
+Tapez ensuite la commande de compilation suivante dans votre terminal :
+```
+g++ *.cpp -lGL -lGLU -lglut
+```
 Puis pour lancer le jeu, entrez la commande ci-dessous :
-```./a.out```
+```
+./a.out
+```
